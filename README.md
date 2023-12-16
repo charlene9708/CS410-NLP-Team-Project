@@ -4,4 +4,4 @@
 - Team Members: Gregory Znoyko(gznoyko2), Joel Feddes (jfeddes2), Itay Gozalzani(itayg2)
 - Free Topics: Hate Toxic Comment Detector
   
-Presentation Video: https://youtu.be/p_VHhClhnvQ 
+Presentation Video: https://youtu.be/IF7KKOHn0BQ 
